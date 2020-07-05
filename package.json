@@ -1,0 +1,45 @@
+{
+  "name": "reactjssimplified",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MansanSouleimanAhmed/reactJsSimplified.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MansanSouleimanAhmed/reactJsSimplified/issues"
+  },
+  "homepage": "https://github.com/MansanSouleimanAhmed/reactJsSimplified#readme",
+  "dependencies": {
+    "@becode/eslint-config": "^0.10.0",
+    "autoprefixer": "^9.8.4",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.1.0",
+    "babel-preset-env": "^1.7.0",
+    "bootstrap": "^4.5.0",
+    "cssnano": "^4.1.10",
+    "eslint": "^7.4.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "gulp": "^4.0.2",
+    "gulp-changed": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-line-ending-corrector": "^1.0.3",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "parcel-bundler": "^1.12.4",
+    "source-map": "^0.7.3"
+  }
+}
